@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338073423957",
+    "project_id": "nationapp-f5e4c",
+    "storage_bucket": "nationapp-f5e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338073423957:android:4e64b9baed7415587d84dc",
+        "android_client_info": {
+          "package_name": "com.example.nationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338073423957-52a6jh7pgg2upmrh8lv5qn2osk8tck7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAXA8Vbo-d2VLOKDEHuSXQtMy0C-FVA20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338073423957-52a6jh7pgg2upmrh8lv5qn2osk8tck7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
